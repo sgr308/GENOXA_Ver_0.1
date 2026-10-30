@@ -195,7 +195,7 @@ GENOXA produces a downloadable report summarizing:
 
 # Workflow:
 
-<img src="https://github.com/sgr308/GENOXA/blob/main/wrk.jpg?raw=true"/>
+<img src="https://github.com/sgr308/GENOXA_Ver_0.1/blob/main/wrk.jpg?raw=true"/>
 
 ---
 
