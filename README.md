@@ -94,12 +94,14 @@ GENOXA builds predictive models using **differentially expressed genes**.
 
 Supported ML frameworks include:
 
+- Naive Bayes
+- Flexible Discriminant Analysis
+- Support Vector Machines
+- Boosted Generalized Linear Model
 - Random Forest
-- Gradient Boosting
-- CART
+- C5.0
 - glmnet
-- XGBoost
-- Flexible Discriminant Analysis and more...
+- Partial Least Squares
 
 Model evaluation outputs include:
 
