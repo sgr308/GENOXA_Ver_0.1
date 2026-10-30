@@ -1,0 +1,11 @@
+	"race"	"Group_Type"	"age"
+"Sample_1"	"white"	"Primary solid Tumor"	53
+"Sample_2"	"white"	"Solid Tissue Normal"	53
+"Sample_3"	"asian"	"Primary solid Tumor"	66
+"Sample_4"	"white"	"Primary solid Tumor"	61
+"Sample_5"	"white"	"Primary solid Tumor"	62
+"Sample_6"	"black"	"Primary solid Tumor"	56
+"Sample_7"	"white"	"Primary solid Tumor"	70
+"Sample_8"	"black"	"Primary solid Tumor"	54
+"Sample_9"	"asian"	"Primary solid Tumor"	68
+"Sample_10"	"white"	"Primary solid Tumor"	62

@@ -1,0 +1,11 @@
+	Group_Type
+"Sample_1"	"Primary solid Tumor"
+"Sample_2"	"Solid Tissue Normal"
+"Sample_3"	"Primary solid Tumor"
+"Sample_4"	"Primary solid Tumor"
+"Sample_5"	"Primary solid Tumor"
+"Sample_6"	"Primary solid Tumor"
+"Sample_7"	"Primary solid Tumor"
+"Sample_8"	"Primary solid Tumor"
+"Sample_9"	"Primary solid Tumor"
+"Sample_10"	"Primary solid Tumor"
