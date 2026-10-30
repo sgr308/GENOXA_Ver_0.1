@@ -232,7 +232,7 @@ You can use these demo files to format your own input data before running GENOXA
 Clone the repository:
 
 ```bash
-git clone https://github.com/sgr308/GENOXA.git
+git clone https://github.com/sgr308/GENOXA_Ver_0.1.git
 cd GENOXA
 ```
 
@@ -260,10 +260,6 @@ GENOXA is available online at:
 We recommend running GENOXA **locally with ≥8 CPU cores** for reliable performance.
 
 ---
-
-### 3. Using Docker Image
-
-1. get the docker image:
 
 ---
 
